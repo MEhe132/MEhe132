@@ -2,7 +2,7 @@
 
 <!-- DYNAMIC TYPING HEADER -->
 <a href="https://github.com/MEhe132">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mehedi+Hasan+(MEhe132);Python+%2F+Automation+%26+Tooling+Developer;AI+%2F+ML+%2F+DL+Learner+%26+Explorer;CS+Undergrad+%26+Research+Assistant+%40+FEC+CSE+Research+Lab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mehedi+Hasan;Python+%2F+Automation+%26+Tooling+Developer;AI+%2F+ML+%2F+DL+Learner+%26+Explorer;CS+Undergrad+%26+Research+Assistant+%40+FEC+CSE+Research+Lab" alt="Typing SVG" />
 </a>
 
 <p align="center">
