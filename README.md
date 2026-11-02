@@ -2,7 +2,7 @@
 
 <!-- DYNAMIC TYPING HEADER -->
 <a href="https://github.com/MEhe132">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=95&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mehedi+Hasan+(MEhe132);Python+%2F+Automation+%26+Full-Stack+Tooling+Developer;CS+Undergrad+%26+Research+Assistant+%40+FEC+CSE+Research+Lab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mehedi+Hasan+(MEhe132);Python+%2F+Automation+%26+Tooling+Developer;AI+%2F+ML+%2F+DL+Learner+%26+Explorer;CS+Undergrad+%26+Research+Assistant+%40+FEC+CSE+Research+Lab" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -31,7 +31,7 @@
 developer:
   name: "Mehedi Hasan"
   handle: "@MEhe132"
-  role: "Python, Automation & Full-Stack Tooling Developer"
+  role: "Python, Automation & Tooling Developer | AI / ML / DL Learner"
   education: "B.Sc. in Computer Science & Engineering @ Faridpur Engineering College (FEC)"
   research_affiliation:
     lab: "FEC CSE Research Lab"
@@ -39,10 +39,10 @@ developer:
     status: "Active research in progress — upcoming manuscript preparation"
 
 current_focus:
-  - "Building desktop automation overlays, browser extensions & full-stack web systems"
+  - "Exploring Artificial Intelligence, Machine Learning & Deep Learning (AI / ML / DL)"
+  - "Building Python desktop automation overlays, browser extensions & web tools"
   - "Conducting applied CSE research at FEC CSE Research Lab"
-  - "Leveling up daily in systems engineering, algorithms, and scalable tooling"
-  - "Open to Software Engineering Internships, Research Collaborations & Freelance Roles"
+  - "Open to Software Engineering / AI Internships, Research Collaborations & Freelance Roles"
 ```
 
 ---
@@ -54,7 +54,7 @@ current_focus:
     <td width="50%" valign="top">
       <h3>🏙️ <a href="https://github.com/MEhe132/Fix_my_city">Fix_my_city</a></h3>
       <p><b>Bangladesh Civic Infrastructure Issue Tracker & GIS Platform</b></p>
-      <p>Full-stack civic-tech platform for tracking and resolving municipal hazards across Dhaka wards with automated verification and statutory petitioning.</p>
+      <p>Civic-tech web platform for tracking and resolving municipal hazards across Dhaka wards with automated verification and statutory petitioning.</p>
       <ul>
         <li><b>AI & EXIF Verification</b>: Combines camera hardware EXIF fast-path checks with synthetic/AI image detection.</li>
         <li><b>GIS & Legal Automation</b>: Interactive <code>Leaflet.js</code> ward mapping + 1-click official PDF petitions via <code>ReportLab</code>.</li>
