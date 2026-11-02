@@ -142,8 +142,8 @@ current_focus:
 ### `top -u MEhe132` — GitHub Telemetry & Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MEhe132&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="MEhe132 GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEhe132&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MEhe132&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="MEhe132 GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MEhe132&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
