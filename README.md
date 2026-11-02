@@ -53,6 +53,27 @@ current_focus:
 
 ### `ls -la ./featured-projects` — Featured Engineering & Tooling
 
+<div align="center">
+
+<a href="https://github.com/MEhe132/Fix_my_city">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Fix_my_city&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="Fix_my_city" />
+</a>
+<a href="https://github.com/MEhe132/Meal_management_web_app">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Meal_management_web_app&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="Meal_management_web_app" />
+</a>
+<a href="https://github.com/MEhe132/Convert_php_to_usdt">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Convert_php_to_usdt&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="Convert_php_to_usdt" />
+</a>
+<a href="https://github.com/MEhe132/Safe-Seller-Keep-Alive">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Safe-Seller-Keep-Alive&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="Safe-Seller-Keep-Alive" />
+</a>
+
+</div>
+
+<details>
+<summary><b>🔍 View Deep Technical Architectures & Specs</b></summary>
+<br/>
+
 > #### 🏙️ [Fix_my_city](https://github.com/MEhe132/Fix_my_city) — *Bangladesh Civic Infrastructure Tracker & GIS Platform*
 > Civic-tech web platform for tracking, triaging, and resolving municipal hazards across Dhaka wards with automated verification and statutory petitioning.
 >
@@ -101,6 +122,8 @@ current_focus:
 > [![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/MEhe132/Safe-Seller-Keep-Alive)
 > [![Manifest V3](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/MEhe132/Safe-Seller-Keep-Alive)
 > [![Browser Automation](https://img.shields.io/badge/Browser_Automation-0078D7?style=flat-square&logo=microsoftedge&logoColor=white)](https://github.com/MEhe132/Safe-Seller-Keep-Alive)
+
+</details>
 
 ---
 
