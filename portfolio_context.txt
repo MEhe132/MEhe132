@@ -1,0 +1,92 @@
+================================================================================
+PORTFOLIO WEBSITE HANDOFF CONTEXT & PROMPT (MEHEDI HASAN / MEhe132)
+================================================================================
+Instructions: Copy and paste this entire file into a new project chat when you
+are ready to build your personal developer & research portfolio website!
+
+--------------------------------------------------------------------------------
+1. PERSONAL IDENTITY & HEADLINE
+--------------------------------------------------------------------------------
+- Full Name: Mehedi Hasan
+- GitHub Handle: MEhe132 (https://github.com/MEhe132)
+- Primary Positioning: Python / Automation & Tooling Developer | AI / ML / DL Learner
+- Academic & Research Role:
+  * B.Sc. Undergraduate in Computer Science & Engineering (CSE)
+  * Institution: Faridpur Engineering College (FEC)
+  * Research Affiliation: Undergraduate Research Assistant at FEC CSE Research Lab
+  * Research Note: Actively conducting research in the FEC CSE Research Lab; manuscripts/papers in progress (none published yet, upcoming soon).
+- Background & Mindset: CS/SE student + self-taught builder exploring AI/ML/DL, Python automation, and developer tooling (intermediate in HTML/CSS/JS).
+- Availability: Open to Software Engineering / AI Internships, Research Collaborations, Freelance Projects, and Entry-Level Opportunities.
+
+--------------------------------------------------------------------------------
+2. VISUAL & DESIGN DIRECTION PREFERRED BY MEHEDI
+--------------------------------------------------------------------------------
+- Aesthetic: Blend of Terminal / Hacker Aesthetic (monospace typography, command-line/YAML/code motifs, dark-mode obsidian/cyber-cyan palette) + Animated & Dynamic modern interactions.
+- Primary Accent Colors: Cyber Cyan (#00F7FF), Tokyo Night Dark (#0D1117 / #161B22), Slate/Crisp White text (#C9D1D9).
+
+--------------------------------------------------------------------------------
+3. CONTACT & SOCIAL LINKS
+--------------------------------------------------------------------------------
+- GitHub: https://github.com/MEhe132
+- Portfolio Website: https://mehe132.github.io/
+- LinkedIn: https://www.linkedin.com/in/mehedi-hasan-a8bb362a1/
+- Email / Gmail: mhbhuiyan2004@gmail.com
+- Telegram: https://t.me/Mh_13585 (@Mh_13585)
+- Discord: mh_13585
+
+--------------------------------------------------------------------------------
+4. TECH STACK & SKILLS
+--------------------------------------------------------------------------------
+- Languages: Python (Primary), C, C++, Java, JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
+- Frameworks & Libraries: Django, Flask, SQLAlchemy, Tkinter, Tailwind CSS, Node.js, Leaflet.js, ReportLab, Pillow (PIL)
+- Systems & Tooling: Windows Win32 API (ctypes), Chrome/Edge Extension APIs (Manifest V3), Server-Sent Events (SSE), Git, GitHub Actions, Linux
+
+--------------------------------------------------------------------------------
+5. FEATURED PROJECTS (WITH FULL TECHNICAL CONTEXT)
+--------------------------------------------------------------------------------
+
+[Project 1] Fix_my_city — Bangladesh Civic Infrastructure Issue Tracker
+- Repo URL: https://github.com/MEhe132/Fix_my_city
+- Stack: Python, Django, Leaflet.js (GIS), ReportLab (PDF), EXIF/Image Analysis, HTML5/CSS3/JS
+- Summary: Advanced civic technology platform designed to track, triage, and resolve broken public infrastructure (potholes, water leaks, streetlights, drainage) across Dhaka municipal wards (DNCC & DSCC).
+- Key Engineering Highlights:
+  * Two-tier role architecture (Citizen Reporter vs. Municipal Authority Triage Console) with immutable audit trails (`StatusHistory`).
+  * Hybrid AI-Generated Image & Spam Verification: Camera Hardware EXIF fast-path verification + binary header/noise detector that blocks Midjourney/DALL-E/synthetic uploads.
+  * Automated Legal Petition Generator (`ReportLab`): Generates official statutory PDF petitions under the Local Government Act 2009 & RTI Act 2009 with GPS watermarks.
+  * Interactive Leaflet.js GIS mapping with multi-layer switching, live GPS/IP geolocation, and OpenStreetMap Nominatim reverse geocoding.
+
+[Project 2] Meal_management_web_app — Real-Time Hostel Meal & Financial Auditing System
+- Repo URL: https://github.com/MEhe132/Meal_management_web_app
+- Stack: Python, Flask, SQLAlchemy ORM, SQLite/PostgreSQL, Server-Sent Events (SSE), Vanilla JS, Tailwind CSS
+- Summary: Full-featured multi-user web app for managing hostel meals, automated meal-rate accounting, role-based slot locking, expense auditing, and real-time group chat.
+- Key Engineering Highlights:
+  * Real-Time SSE Streaming: Custom thread-safe `MessageAnnouncer` using `threading.Lock()` for non-blocking live chat and notifications.
+  * High-Performance SQL Architecture: Bulk aggregation queries (`get_bulk_user_monthly_stats`) and composite SQLite indexes reducing dashboard loads from 100+ queries to 3-4 sub-millisecond queries.
+  * Dynamic Financial Engine: Live calculation of per-meal rates, member deposits, expenses, and individual net balances with manager role-transfer support.
+
+[Project 3] Convert_php_to_usdt (calc-php-converter) — Desktop Currency & OCR Calculator Overlay
+- Repo URL: https://github.com/MEhe132/Convert_php_to_usdt
+- Stack: Python, Tkinter, Pillow (PIL), Windows Win32 API (`ctypes`)
+- Summary: Lightweight, frameless, always-on-top desktop overlay utility for real-time PHP <-> USDT currency conversion and on-screen math calculations.
+- Key Engineering Highlights:
+  * OS-Level Integration: Direct Win32 API calls for global hotkeys (`Ctrl + /` to summon, `Ctrl + +/-` for live opacity adjustment) and high-DPI scaling.
+  * Google Lens OCR Screen Snipping: Built-in region-snip tool to grab prices/numbers directly off the screen.
+  * Persistent Session State: Remembers window coordinates, dimensions, and transparency in `window_config.json`.
+
+[Project 4] Safe-Seller-Keep-Alive — Stealth Marketplace Session Manager (Manifest V3)
+- Repo URL: https://github.com/MEhe132/Safe-Seller-Keep-Alive
+- Stack: JavaScript (ES6+), Chrome/Edge Extension Manifest V3 (`chrome.alarms`, `chrome.power`, Service Workers)
+- Summary: Background browser extension for Microsoft Edge and Google Chrome that keeps marketplace seller accounts (G2G & U7BUY) active at randomized intervals without stealing focus.
+- Key Engineering Highlights:
+  * Randomized Jitter Engine: Uses `chrome.alarms` (600s-1000s randomized intervals) to mimic natural activity in a single background tab.
+  * Hardware Wake-Lock & Auto-Recovery: Prevents Windows S0 Modern Standby sleep via `chrome.power` and auto-recovers expired timers after PC restarts.
+  * Cloudflare & Logout Safeguard: Inspects tab titles/URLs prior to refresh and automatically pauses + alerts the user if a security challenge or login redirect occurs.
+
+--------------------------------------------------------------------------------
+6. GITHUB SIDEBAR BIO & METADATA (FOR QUICK COPY-PASTE ON GITHUB.COM)
+--------------------------------------------------------------------------------
+- Sidebar Bio (160 chars max):
+  Python, Automation & Tooling Dev ⚡ | AI / ML / DL Learner 🧠 | CSE Undergrad & Research Assistant @ FEC CSE Research Lab 🔬
+- Location: Faridpur / Dhaka, Bangladesh
+- Organization / Lab: FEC CSE Research Lab, Faridpur Engineering College
+================================================================================
