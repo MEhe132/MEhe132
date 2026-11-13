@@ -1,27 +1,27 @@
 <div align="center">
 
-<!-- DYNAMIC TYPING HEADER -->
+<!-- DYNAMIC TYPING HEADER (CLEAN LIGHT THEME) -->
 <a href="https://github.com/MEhe132">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mehedi+Hasan;Python+%2F+Automation+%26+Tooling+Developer;AI+%2F+ML+%2F+DL+Learner+%26+Explorer;CS+Undergrad+%26+Research+Assistant+%40+FEC+CSE+Research+Lab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=0969DA&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mehedi+Hasan;Python+%2F+Automation+%26+Tooling+Developer;AI+%2F+ML+%2F+DL+Learner+%26+Explorer;CS+Undergrad+%26+Research+Assistant+%40+FEC+CSE+Research+Lab" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://mehe132.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-mehe132.github.io-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mehedi-hasan-a8bb362a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mehedi_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mhbhuiyan2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mhbhuiyan2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://t.me/Mh_13585" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@Mh__13585-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://discord.com/users/mh_13585" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-mh__13585-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MEhe132&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MEhe132&label=Profile%20Views&color=0969DA&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -56,16 +56,16 @@ current_focus:
 <div align="center">
 
 <a href="https://github.com/MEhe132/Fix_my_city">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Fix_my_city&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="Fix_my_city" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Fix_my_city&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Fix_my_city" />
 </a>
 <a href="https://github.com/MEhe132/Meal_management_web_app">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Meal_management_web_app&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="Meal_management_web_app" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Meal_management_web_app&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Meal_management_web_app" />
 </a>
 <a href="https://github.com/MEhe132/Convert_php_to_usdt">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Convert_php_to_usdt&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="Convert_php_to_usdt" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Convert_php_to_usdt&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Convert_php_to_usdt" />
 </a>
 <a href="https://github.com/MEhe132/Safe-Seller-Keep-Alive">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Safe-Seller-Keep-Alive&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&border_color=30363D&show_owner=false" alt="Safe-Seller-Keep-Alive" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Safe-Seller-Keep-Alive&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Safe-Seller-Keep-Alive" />
 </a>
 
 </div>
@@ -165,12 +165,12 @@ current_focus:
 ### `top -u MEhe132` — GitHub Telemetry & Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MEhe132&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="MEhe132 GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MEhe132&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MEhe132&show_icons=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&include_all_commits=true&count_private=true" alt="MEhe132 GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MEhe132&layout=compact&bg_color=FFFFFF&title_color=0969DA&text_color=1F2328&border_color=D0D7DE&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MEhe132&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MEhe132&background=FFFFFF&border=D0D7DE&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&sideNums=1F2328&dates=656D76" alt="GitHub Streak" />
 </div>
 
 <!-- 3D / DARK CONTRIBUTION SNAKE (Auto-generated by .github/workflows/snake.yml) -->
