@@ -21,7 +21,9 @@
   <a href="https://discord.com/users/mh_13585" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MEhe132&label=Profile%20Views&color=0969DA&style=for-the-badge" alt="Profile Views" />
+  <a href="https://mehe132.github.io/views" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=MEhe132&label=Profile%20Views&color=0969DA&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
 </div>
