@@ -58,16 +58,16 @@ current_focus:
 <div align="center">
 
 <a href="https://github.com/MEhe132/Fix_my_city">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Fix_my_city&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Fix_my_city" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=MEhe132&repo=Fix_my_city&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Fix_my_city" />
 </a>
 <a href="https://github.com/MEhe132/Meal_management_web_app">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Meal_management_web_app&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Meal_management_web_app" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=MEhe132&repo=Meal_management_web_app&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Meal_management_web_app" />
 </a>
 <a href="https://github.com/MEhe132/Convert_php_to_usdt">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Convert_php_to_usdt&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Convert_php_to_usdt" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=MEhe132&repo=Convert_php_to_usdt&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Convert_php_to_usdt" />
 </a>
 <a href="https://github.com/MEhe132/Safe-Seller-Keep-Alive">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MEhe132&repo=Safe-Seller-Keep-Alive&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Safe-Seller-Keep-Alive" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=MEhe132&repo=Safe-Seller-Keep-Alive&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&show_owner=false" alt="Safe-Seller-Keep-Alive" />
 </a>
 
 </div>
@@ -167,8 +167,8 @@ current_focus:
 ### `top -u MEhe132` — GitHub Telemetry & Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MEhe132&show_icons=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&include_all_commits=true&count_private=true" alt="MEhe132 GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MEhe132&layout=compact&bg_color=FFFFFF&title_color=0969DA&text_color=1F2328&border_color=D0D7DE&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=MEhe132&show_icons=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328&border_color=D0D7DE&include_all_commits=true&count_private=true" alt="MEhe132 GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MEhe132&layout=compact&bg_color=FFFFFF&title_color=0969DA&text_color=1F2328&border_color=D0D7DE&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
